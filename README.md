@@ -528,7 +528,7 @@
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
         </tr>
         <tr>
-            <td align="center">Desafio 1</td>
+            <td align="center"><a href="./Target/desafio_1/README.md">Desafio 1</a></td>
             <td align="center">  
                 <a href="./Target/desafio_1/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -536,7 +536,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Desafio 2</td>
+            <td align="center"><a href="./Target/desafio_2/README.md">Desafio 2</a></td>
             <td align="center">  
                 <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_2/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -544,7 +544,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Desafio 3</td>
+            <td align="center"><a href="./Target/desafio_3/README.md">Desafio 3</a></td>
             <td align="center">  
                 <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_3/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -552,7 +552,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Desafio 4</td>
+            <td align="center"><a href="./Target/desafio_4/README.md">Desafio 4</a></td>
             <td align="center">  
                 <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_4/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
