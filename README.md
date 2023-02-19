@@ -412,6 +412,174 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1168</td>
+                <td align="center">LED</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1168 LED/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1168 LED/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1168 LED/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1168 LED/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1234</td>
+                <td align="center">Sentença Dançante</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1234 Sentença Dançante/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1234 Sentença Dançante/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1234 Sentença Dançante/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1235</td>
+                <td align="center">De Dentro para Fora</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1235 De Dentro para Fora/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1235 De Dentro para Fora/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1235 De Dentro para Fora/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1238</td>
+                <td align="center">Combinador</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1238 Combinador/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1238 Combinador/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1238 Combinador/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1253</td>
+                <td align="center">Cifra de César</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1253 Cifra de César/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1253 Cifra de César/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1253 Cifra de César/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1871</td>
+                <td align="center">Zero vale Zero</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1871 Zero vale Zero/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1871 Zero vale Zero/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1871 Zero vale Zero/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1873</td>
+                <td align="center">Pedra-papel-tesoura-lagarto-Spock</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1873 Pedra-papel-tesoura-lagarto-Spock/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1873 Pedra-papel-tesoura-lagarto-Spock/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1873 Pedra-papel-tesoura-lagarto-Spock/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -490,6 +658,102 @@
             </td>
             <td align="center">
                 <a href="./Beecrowd/1161 Soma de Fatoriais/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1170</td>
+                <td align="center">Blobs</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1170 Blobs/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1170 Blobs/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1170 Blobs/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1170 Blobs/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1214</td>
+                <td align="center">Acima da Média</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1214 Acima da Média/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1214 Acima da Média/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1214 Acima da Média/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1429</td>
+                <td align="center">Fatorial de Novo!</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1429 Fatorial de Novo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1429 Fatorial de Novo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1429 Fatorial de Novo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1436</td>
+                <td align="center">Jogo do Tijolo</td>
+                <td align="center">  
+                    <a href="#">
+                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1436 Jogo do Tijolo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1436 Jogo do Tijolo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1436 Jogo do Tijolo/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
