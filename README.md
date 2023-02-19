@@ -1108,6 +1108,30 @@
             <td align="center"><img src="./Ícones/icons8-python-40.png" width="40" height="40"></td>
         </tr>
         <tr>
+            <td align="center">1259</td>
+                <td align="center">Pares e Ímpares</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1259 Pares e Ímpares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1259 Pares e Ímpares/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1259 Pares e Ímpares/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1259 Pares e Ímpares/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2633</td>
                 <td align="center">Churras no Yuri</td>
                 <td align="center">  
