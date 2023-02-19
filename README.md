@@ -770,7 +770,160 @@
         <tr>
             <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
-            <td align="center"><img src="./Ícones/icons8-postgreesql-40.png" width="40" height="40"></td>
+            <td align="center"><img src="./Ícones/icons8-postgresql-40.png" width="40" height="40"></td>
+        </tr>
+        <tr>
+            <td align="center">2602</td>
+                <td align="center">Select Básico</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2602 Select Básico/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2603</td>
+                <td align="center">Endereço dos Clientes</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2603 Endereço dos Clientes/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2604</td>
+                <td align="center">Menores que 10 ou Maiores que 100</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2604 Menores que 10 ou Maiores que 100/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2605</td>
+                <td align="center">Representantes Executivos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2605 Representantes Executivos/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2606</td>
+                <td align="center">Categorias</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2606 Categorias/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2607</td>
+                <td align="center">Cidades em Ordem Alfabética</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2607 Cidades em Ordem Alfabética/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2608</td>
+                <td align="center">Maior e Menor Preço</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2608 Maior e Menor Preço/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2609</td>
+                <td align="center">Produtos por Categorias</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2609 Produtos por Categorias/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2610</td>
+                <td align="center">Valor Médio dos Produtos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2610 Valor Médio dos Produtos/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2611</td>
+                <td align="center">Filmes de Ação</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2611 Filmes de Ação/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2613</td>
+                <td align="center">Filmes em Promoção</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2613 Filmes em Promoção/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2614</td>
+                <td align="center">Locações de Setembro</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2614 Locações de Setembro/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2615</td>
+                <td align="center">Expandindo o Negocio</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2615 Expandindo o Negocio/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2621</td>
+                <td align="center">Quantidades Entre 10 e 20</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2621 Quantidades Entre 10 e 20/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2623</td>
+                <td align="center">Categorias com Vários Produtos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2623 Categorias com Vários Produtos/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2624</td>
+                <td align="center">Quantidades de Cidades por Clientes</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2624 Quantidades de Cidades por Clientes/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2744</td>
+                <td align="center">Senhas</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2744 Senhas/script.sql">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
         </tr>
     </table>
 </details>
