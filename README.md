@@ -402,6 +402,198 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1016</td>
+                <td align="center">Distância</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1016 Distância/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1016 Distância/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1016 Distância/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1016 Distância/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1017</td>
+                <td align="center">Gasto de Combustível</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1017 Gasto de Combustível/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1017 Gasto de Combustível/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1017 Gasto de Combustível/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1017 Gasto de Combustível/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1018</td>
+                <td align="center">Cédulas</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1018 Cédulas/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1018 Cédulas/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1018 Cédulas/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1018 Cédulas/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1019</td>
+                <td align="center">Conversão de Tempo</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1019 Conversão de Tempo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1019 Conversão de Tempo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1019 Conversão de Tempo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1019 Conversão de Tempo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1020</td>
+                <td align="center">Idade em Dias</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1020 Idade em Dias/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1020 Idade em Dias/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1020 Idade em Dias/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1020 Idade em Dias/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1035</td>
+                <td align="center">Teste de Seleção 1</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1035 Teste de Seleção 1/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1035 Teste de Seleção 1/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1035 Teste de Seleção 1/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1035 Teste de Seleção 1/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1036</td>
+                <td align="center">Fórmula de Bhaskara</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1036 Fórmula de Bhaskara/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1036 Fórmula de Bhaskara/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1036 Fórmula de Bhaskara/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1035 Teste de Seleção 1/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1037</td>
+                <td align="center">Intervalo</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1037 Intervalo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1037 Intervalo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1037 Intervalo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1037 Intervalo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -1562,7 +1754,7 @@
         <tr>
             <td align="center"><a href="./Target/desafio_2/README.md">Desafio 2</a></td>
             <td align="center">  
-                <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_2/src/application/Main.java">
+                <a href="./Target/desafio_2/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -1570,7 +1762,7 @@
         <tr>
             <td align="center"><a href="./Target/desafio_3/README.md">Desafio 3</a></td>
             <td align="center">  
-                <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_3/src/application/Main.java">
+                <a href="./Target/desafio_3/src/application/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -1578,7 +1770,67 @@
         <tr>
             <td align="center"><a href="./Target/desafio_4/README.md">Desafio 4</a></td>
             <td align="center">  
-                <a href="https://github.com/vicentejluz/desafios-programacao/blob/main/Target/desafio_4/src/application/Main.java">
+                <a href="./Target/desafio_4/src/application/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+    </table>
+</details>
+<h1></h1>
+
+<p align="center">
+    <a href="https://www.dio.me/en">
+        <img  width="250"  height="150"  src="./Ícones/logo-dio.png">
+</p>
+<h1>Problemas resolvidos 🚀</h1>
+<details>
+    <summary><strong> DIGITAL INNOVATION ONE </strong></summary>
+    <br />
+    <table>
+        <tr>
+            <th colspan="7"><strong>DIGITAL INNOVATION ONE</strong></th>
+        </tr>
+        <tr>
+            <td align="center"><strong>PROBLEMA</strong></td>
+            <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
+        </tr>
+        <tr>
+            <td align="center">Fábrica de Carros</td>
+            <td align="center">  
+                <a href="./Dio/Fábrica de Carros/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Imprimindo Positivos e Média</td>
+            <td align="center">  
+                <a href="./Dio/Imprimindo Positivos e Média/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Soma de H com N Termos</td>
+            <td align="center">  
+                <a href="./Dio/Soma de H com N Termos/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Dragão!</td>
+            <td align="center">  
+                <a href="./Dio/Dragão!/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Fibonacci Fácil</td>
+            <td align="center">  
+                <a href="./Dio/Fibonacci Fácil/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
