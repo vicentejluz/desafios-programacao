@@ -565,7 +565,7 @@
                 </a>
             </td>
             <td align="center">  
-                <a href="./Beecrowd/1035 Teste de Seleção 1/main.py">
+                <a href="./Beecrowd/1036 Fórmula de Bhaskara/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -1796,7 +1796,7 @@
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
         </tr>
         <tr>
-            <td align="center">Fábrica de Carros</td>
+            <td align="center"><a href="./Dio/Fábrica de Carros/README.md">Fábrica de Carros</a></td>
             <td align="center">  
                 <a href="./Dio/Fábrica de Carros/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -1804,7 +1804,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Imprimindo Positivos e Média</td>
+            <td align="center"><a href="./Dio/Imprimindo Positivos e Média/README.md">Imprimindo Positivos e Média</a></td>
             <td align="center">  
                 <a href="./Dio/Imprimindo Positivos e Média/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -1812,7 +1812,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Soma de H com N Termos</td>
+            <td align="center"><a href="./Dio/Soma de H com N Termos/README.md">Soma de H com N Termos</a></td>
             <td align="center">  
                 <a href="./Dio/Soma de H com N Termos/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -1820,7 +1820,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Dragão!</td>
+            <td align="center"><a href="./Dio/Dragão!/README.md">Dragão!</a></td>
             <td align="center">  
                 <a href="./Dio/Dragão!/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
@@ -1828,7 +1828,7 @@
             </td>
         </tr>
         <tr>
-            <td align="center">Fibonacci Fácil</td>
+            <td align="center"><a href="./Dio/Fibonacci Fácil/README.md">Fibonacci Fácil</a></td>
             <td align="center">  
                 <a href="./Dio/Fibonacci Fácil/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
