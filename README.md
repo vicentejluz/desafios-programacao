@@ -594,6 +594,174 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1038</td>
+                <td align="center">Lanche</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1038 Lanche/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1038 Lanche/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1038 Lanche/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1038 Lanche/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1040</td>
+                <td align="center">Média 3</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1040 Média 3/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1040 Média 3/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1040 Média 3/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1040 Média 3/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1041</td>
+                <td align="center">Coordenadas de um Ponto</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1041 Coordenadas de um Ponto/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1041 Coordenadas de um Ponto/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1041 Coordenadas de um Ponto/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1041 Coordenadas de um Ponto/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1042</td>
+                <td align="center">Sort Simples</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1042 Sort Simples/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1042 Sort Simples/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1042 Sort Simples/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1042 Sort Simples/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1043</td>
+                <td align="center">Triângulo</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1043 Triângulo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1043 Triângulo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1043 Triângulo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1043 Triângulo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1044</td>
+                <td align="center">Múltiplos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1044 Múltiplos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1044 Múltiplos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1044 Múltiplos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1044 Múltiplos/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1045</td>
+                <td align="center">Tipos de Triângulos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1045 Tipos de Triângulos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1045 Tipos de Triângulos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1045 Tipos de Triângulos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1045 Tipos de Triângulos/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
