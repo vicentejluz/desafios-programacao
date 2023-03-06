@@ -762,6 +762,126 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1046</td>
+                <td align="center">Tempo de Jogo</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1046 Tempo de Jogo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1046 Tempo de Jogo/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1046 Tempo de Jogo/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1046 Tempo de Jogo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1047</td>
+                <td align="center">Tempo de Jogo com Minutos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1047 Tempo de Jogo com Minutos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1047 Tempo de Jogo com Minutos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1047 Tempo de Jogo com Minutos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1047 Tempo de Jogo com Minutos/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1048</td>
+                <td align="center">Aumento de Salário</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1048 Aumento de Salário/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1048 Aumento de Salário/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1048 Aumento de Salário/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1048 Aumento de Salário/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1049</td>
+                <td align="center">Animal</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1049 Animal/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1049 Animal/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1049 Animal/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1049 Animal/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1050</td>
+                <td align="center">DDD</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1050 DDD/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1050 DDD/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1050 DDD/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1050 DDD/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -2013,7 +2133,7 @@
     </a>
     <a href="https://www.linkedin.com/in/vicentejluz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-vicentejluz" height="30" width="40" />
     </a>  
-    <a href="https://web.dio.me/users/vicenteluz1994" target="_blank"><img align="center" src="https://web.dio.me/favicon/favicon-32x32.png" alt="DIO-Vicente-Luz" height="35" width="37" />
+    <a href="https://web.dio.me/users/vicentejluz" target="_blank"><img align="center" src="https://web.dio.me/favicon/favicon-32x32.png" alt="DIO-Vicente-Luz" height="35" width="37" />
     </a>
     <a href="https://www.beecrowd.com.br/judge/pt/profile/374484" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Vicente-Luz" height="40" width="40" />
     </a>
