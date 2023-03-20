@@ -882,6 +882,102 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1051</td>
+                <td align="center">Imposto de Renda</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1051 Imposto de Renda/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1051 Imposto de Renda/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1051 Imposto de Renda/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1051 Imposto de Renda/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1052</td>
+                <td align="center">Mês</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1052 Mês/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1052 Mês/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1052 Mês/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1052 Mês/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1059</td>
+                <td align="center">Números Pares</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1059 Números Pares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1059 Números Pares/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1059 Números Pares/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1059 Números Pares/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1060</td>
+                <td align="center">Números Positivos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1060 Números Positivos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1060 Números Positivos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1060 Números Positivos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1060 Números Positivos/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -2073,11 +2169,11 @@
 </p>
 <h1>Problemas resolvidos 🚀</h1>
 <details>
-    <summary><strong> DIGITAL INNOVATION ONE </strong></summary>
+    <summary><strong> 1 - BÁSICO </strong></summary>
     <br />
     <table>
         <tr>
-            <th colspan="7"><strong>DIGITAL INNOVATION ONE</strong></th>
+            <th colspan="7"><strong>BÁSICO</strong></th>
         </tr>
         <tr>
             <td align="center"><strong>PROBLEMA</strong></td>
@@ -2119,6 +2215,43 @@
             <td align="center"><a href="./Dio/Fibonacci Fácil/README.md">Fibonacci Fácil</a></td>
             <td align="center">  
                 <a href="./Dio/Fibonacci Fácil/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+    </table>
+</details>
+<details>
+    <summary><strong> 2 - INTERMEDIÁRIO </strong></summary>
+    <br />
+    <table>
+        <tr>
+            <th colspan="7"><strong>INTERMEDIÁRIO</strong></th>
+        </tr>
+        <tr>
+            <td align="center"><strong>PROBLEMA</strong></td>
+            <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Animal/README.md">Animal</a></td>
+            <td align="center">  
+                <a href="./Dio/Animal/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Triângulo/README.md">Triângulo</a></td>
+            <td align="center">  
+                <a href="./Dio/Triângulo/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Taxa de Imposto de Renda/README.md">Taxa de Imposto de Renda</a></td>
+            <td align="center">  
+                <a href="./Dio/Taxa de Imposto de Renda/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
