@@ -978,6 +978,198 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1064</td>
+                <td align="center">Positivos e Média</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1064 Positivos e Média/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1064 Positivos e Média/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1064 Positivos e Média/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1064 Positivos e Média/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1065</td>
+                <td align="center">Pares entre Cinco Números</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1065 Pares entre Cinco Números/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1065 Pares entre Cinco Números/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1065 Pares entre Cinco Números/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1065 Pares entre Cinco Números/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1066</td>
+                <td align="center">Pares, Ímpares, Positivos e Negativos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1066 Pares, Ímpares, Positivos e Negativos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1066 Pares, Ímpares, Positivos e Negativos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1066 Pares, Ímpares, Positivos e Negativos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1066 Pares, Ímpares, Positivos e Negativos/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1067</td>
+                <td align="center">Números Ímpares</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1067 Números Ímpares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1067 Números Ímpares/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1067 Números Ímpares/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1067 Números Ímpares/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1070</td>
+                <td align="center">Seis Números Ímpares</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1070 Seis Números Ímpares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1070 Seis Números Ímpares/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1070 Seis Números Ímpares/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1070 Seis Números Ímpares/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1071</td>
+                <td align="center">Soma de Impares Consecutivos I</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1071 Soma de Impares Consecutivos I/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1071 Soma de Impares Consecutivos I/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1071 Soma de Impares Consecutivos I/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1071 Soma de Impares Consecutivos I/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1072</td>
+                <td align="center">Intervalo 2</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1072 Intervalo 2/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1072 Intervalo 2/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1072 Intervalo 2/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1072 Intervalo 2/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1073</td>
+                <td align="center">Quadrado de Pares</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1073 Quadrado de Pares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1073 Quadrado de Pares/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1073 Quadrado de Pares/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1073 Quadrado de Pares/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -2169,11 +2361,11 @@
 </p>
 <h1>Problemas resolvidos 🚀</h1>
 <details>
-    <summary><strong> 1 - BÁSICO </strong></summary>
+    <summary><strong> DIGITAL INNOVATION ONE </strong></summary>
     <br />
     <table>
         <tr>
-            <th colspan="7"><strong>BÁSICO</strong></th>
+            <th colspan="7"><strong>DIGITAL INNOVATION ONE</strong></th>
         </tr>
         <tr>
             <td align="center"><strong>PROBLEMA</strong></td>
@@ -2218,19 +2410,6 @@
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
-        </tr>
-    </table>
-</details>
-<details>
-    <summary><strong> 2 - INTERMEDIÁRIO </strong></summary>
-    <br />
-    <table>
-        <tr>
-            <th colspan="7"><strong>INTERMEDIÁRIO</strong></th>
-        </tr>
-        <tr>
-            <td align="center"><strong>PROBLEMA</strong></td>
-            <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
         </tr>
         <tr>
             <td align="center"><a href="./Dio/Animal/README.md">Animal</a></td>
