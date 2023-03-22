@@ -11,7 +11,7 @@
             <th colspan="7"><strong>INICIANTE</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
@@ -1290,6 +1290,150 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1094</td>
+                <td align="center">Experiências</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1094 Experiências/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1094 Experiências/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1094 Experiências/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1094 Experiências/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1095</td>
+                <td align="center">Sequencia IJ 1</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1095 Sequencia IJ 1/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1095 Sequencia IJ 1/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1095 Sequencia IJ 1/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1095 Sequencia IJ 1/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1096</td>
+                <td align="center">Sequencia IJ 2</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1096 Sequencia IJ 2/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1096 Sequencia IJ 2/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1096 Sequencia IJ 2/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1096 Sequencia IJ 2/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1097</td>
+                <td align="center">Sequencia IJ 3</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1097 Sequencia IJ 3/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1097 Sequencia IJ 3/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1097 Sequencia IJ 3/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1097 Sequencia IJ 3/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1098</td>
+                <td align="center">Sequencia IJ 4</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1098 Sequencia IJ 4/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1098 Sequencia IJ 4/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1098 Sequencia IJ 4/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1098 Sequencia IJ 4/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1099</td>
+                <td align="center">Soma de Ímpares Consecutivos II</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1099 Soma de Ímpares Consecutivos II/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1099 Soma de Ímpares Consecutivos II/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1099 Soma de Ímpares Consecutivos II/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1099 Soma de Ímpares Consecutivos II/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -1300,7 +1444,7 @@
             <th colspan="7"><strong>AD-HOC</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
@@ -1851,7 +1995,7 @@
             <th colspan="7"><strong>STRINGS</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
@@ -2060,7 +2204,7 @@
             <th colspan="7"><strong>ESTRUTURAS E BIBLIOTECAS</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
@@ -2125,7 +2269,7 @@
             <th colspan="7"><strong>MATEMÁTICA</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
@@ -2262,7 +2406,7 @@
             <th colspan="7"><strong>SQL</strong></th>
         </tr>
         <tr>
-            <td align="center"><strong>NÚMERO DO PROBLEMA</strong></td>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
             <td align="center"><strong>PROBLEMA</strong></td>
             <td align="center"><img src="./Ícones/icons8-postgresql-40.png" width="40" height="40"></td>
         </tr>
@@ -2535,6 +2679,14 @@
             <td align="center"><a href="./Dio/Animal/README.md">Animal</a></td>
             <td align="center">  
                 <a href="./Dio/Animal/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Quitanda do Seu Zé/README.md">Quitanda do Seu Zé</a></td>
+            <td align="center">  
+                <a href="./Dio/Quitanda do Seu Zé/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
