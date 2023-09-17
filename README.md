@@ -2236,6 +2236,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1281</td>
+                <td align="center">Ida à Feira</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1281 Ida à Feira/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1281 Ida à Feira/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1281 Ida à Feira/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1281 Ida à Feira/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2633</td>
                 <td align="center">Churras no Yuri</td>
                 <td align="center">  
