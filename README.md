@@ -1527,8 +1527,8 @@
             <td align="center">1216</td>
                 <td align="center">Getline One</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1216 Getline One/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1543,6 +1543,29 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1216 Getline One/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+                    <td align="center">1217</td>
+                <td align="center">Getline Two - Frutas</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1217 Getline Two - Frutas/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1217 Getline Two - Frutas/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1217 Getline Two - Frutas/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1217 Getline Two - Frutas/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -1567,6 +1590,30 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1467 Zerinho ou Um/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+                <tr>
+            <td align="center">1533</td>
+                <td align="center">Detetive Watson</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1533 Detetive Watson/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1533 Detetive Watson/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1533 Detetive Watson/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1533 Detetive Watson/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -2190,6 +2237,30 @@
             </td>
             <td align="center">
                 <a href="./Beecrowd/1873 Pedra-papel-tesoura-lagarto-Spock/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+                <tr>
+            <td align="center">2137</td>
+                <td align="center">A Biblioteca do Senhor Severino</td>
+            <td align="center">  
+                <a href="./Beecrowd/2137 A Biblioteca do Senhor Severino/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2137 A Biblioteca do Senhor Severino/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2137 A Biblioteca do Senhor Severino/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2137 A Biblioteca do Senhor Severino/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
