@@ -1503,8 +1503,8 @@
             <td align="center">1140</td>
                 <td align="center">Flores Florescem da França</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1140 Flores Florescem da França/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1574,8 +1574,8 @@
             <td align="center">1467</td>
                 <td align="center">Zerinho ou Um</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1467 Zerinho ou Um/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1622,8 +1622,8 @@
             <td align="center">1743</td>
                 <td align="center">Máquina de Verificação Automatizada</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1743 Máquina de Verificação Automatizada/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1646,8 +1646,8 @@
             <td align="center">1794</td>
                 <td align="center">Lavanderia</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1794 Lavanderia/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1670,8 +1670,8 @@
             <td align="center">1796</td>
                 <td align="center">Economia Brasileira</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1796 Economia Brasileira/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1694,8 +1694,8 @@
             <td align="center">2058</td>
                 <td align="center">Triângulos e Polígonos Regulares</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2058 Triângulos e Polígonos Regulares/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1718,8 +1718,8 @@
             <td align="center">2339</td>
                 <td align="center">Aviões de Papel</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2339 Aviões de Papel/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1742,8 +1742,8 @@
             <td align="center">2373</td>
                 <td align="center">Garçom</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2373 Garçom/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1766,8 +1766,8 @@
             <td align="center">2375</td>
                 <td align="center">Sedex</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2375 Sedex/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1790,8 +1790,8 @@
             <td align="center">2377</td>
                 <td align="center">Pedágio</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2377 Pedágio/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1814,8 +1814,8 @@
             <td align="center">2388</td>
                 <td align="center">Tacógrafo</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2388 Tacógrafo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1886,8 +1886,8 @@
             <td align="center">2454</td>
                 <td align="center">Flíper</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2454 Flíper/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1910,8 +1910,8 @@
             <td align="center">2455</td>
                 <td align="center">Gangorra</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2455 Gangorra/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1934,8 +1934,8 @@
             <td align="center">2456</td>
                 <td align="center">Cartas</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2456 Cartas/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -1958,8 +1958,8 @@
             <td align="center">2679</td>
                 <td align="center">Sucessor Par</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2679 Sucessor Par/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -2006,8 +2006,8 @@
             <td align="center">3093</td>
                 <td align="center">Truco da Galera 1.0</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/3093 Truco da Galera 1.0/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
