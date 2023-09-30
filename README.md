@@ -522,6 +522,29 @@
                 </a>
             </td>
         </tr>
+            <td align="center">1021</td>
+                <td align="center">Notas e Moedas</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1021 Notas e Moedas/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1021 Notas e Moedas/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1021 Notas e Moedas/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1021 Notas e Moedas/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
         <tr>
             <td align="center">1035</td>
                 <td align="center">Teste de Seleção 1</td>
@@ -2334,13 +2357,16 @@
             <td align="center">2633</td>
                 <td align="center">Churras no Yuri</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/2633 Churras no Yuri/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
-                <a href="#">
-                    <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                <a href="./Beecrowd/2633 Churras no Yuri/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+                <a href="./Beecrowd/2633 Churras no Yuri/mainv2.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
             <td align="center">
@@ -2423,8 +2449,8 @@
             <td align="center">1214</td>
                 <td align="center">Acima da Média</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1214 Acima da Média/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2447,8 +2473,8 @@
             <td align="center">1429</td>
                 <td align="center">Fatorial de Novo!</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1429 Fatorial de Novo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
