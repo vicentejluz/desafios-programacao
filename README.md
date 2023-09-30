@@ -2076,8 +2076,8 @@
             <td align="center">1024</td>
                 <td align="center">Criptografia</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1024 Criptografia/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2124,8 +2124,8 @@
             <td align="center">1234</td>
                 <td align="center">Sentença Dançante</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1234 Sentença Dançante/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2148,8 +2148,8 @@
             <td align="center">1235</td>
                 <td align="center">De Dentro para Fora</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1235 De Dentro para Fora/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2172,8 +2172,8 @@
             <td align="center">1238</td>
                 <td align="center">Combinador</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1238 Combinador/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2196,8 +2196,8 @@
             <td align="center">1253</td>
                 <td align="center">Cifra de César</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1253 Cifra de César/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2220,8 +2220,8 @@
             <td align="center">1871</td>
                 <td align="center">Zero vale Zero</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1871 Zero vale Zero/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2244,8 +2244,8 @@
             <td align="center">1873</td>
                 <td align="center">Pedra-papel-tesoura-lagarto-Spock</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1873 Pedra-papel-tesoura-lagarto-Spock/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
@@ -2497,8 +2497,8 @@
             <td align="center">1436</td>
                 <td align="center">Jogo do Tijolo</td>
                 <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                    <a href="./Beecrowd/1436 Jogo do Tijolo/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">
