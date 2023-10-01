@@ -2520,7 +2520,49 @@
     </table>
 </details>
 <details>
-    <summary><strong> 6 - SQL </strong></summary>
+    <summary><strong> 6 - GRAFOS </strong></summary>
+    <br />
+    <table>
+        <tr>
+            <th colspan="7"><strong>GRAFOS</strong></th>
+        </tr>
+        <tr>
+            <td align="center"><strong>NÚM. PROBLEMA</strong></td>
+            <td align="center"><strong>PROBLEMA</strong></td>
+            <td align="center"><img src="./Ícones/icons8-java-40.png" width="40" height="40"></td>
+            <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
+            <td align="center"><img src="./Ícones/icons8-c++-40.png" width="40" height="40"></td>
+            <td align="center"><img src="./Ícones/icons8-python-40.png" width="40" height="40"></td>
+        </tr>
+        <tr>
+            <td align="center">1195</td>
+                <td align="center">Árvore Binária de Busca</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1195 Árvore Binária de Busca/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+                </td>
+                <td align="center">  
+                    <a href="./Beecrowd/1195 Árvore Binária de Busca/main.c">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+                </td>
+                <td align="center">  
+                    <a href="./Beecrowd/1195 Árvore Binária de Busca/main.cpp">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+                </td>
+                <td align="center">  
+                    <a href="./Beecrowd/1195 Árvore Binária de Busca/main.py">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+                </td>
+            </td>
+        </tr>
+    </table>
+</details>
+<details>
+    <summary><strong> 7 - SQL </strong></summary>
     <br />
     <table>
         <tr>
