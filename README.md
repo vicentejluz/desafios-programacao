@@ -1457,6 +1457,30 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center">1175</td>
+                <td align="center">Troca em Vetor I</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1175 Troca em Vetor I/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1175 Troca em Vetor I/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1175 Troca em Vetor I/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1175 Troca em Vetor I/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 <details>
@@ -1494,6 +1518,29 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1026 Carrega ou não Carrega/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+                    <td align="center">1105</td>
+                <td align="center">Sub-prime</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1105 Sub-prime/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1105 Sub-prime/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1105 Sub-prime/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1105 Sub-prime/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -2446,6 +2493,54 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1197</td>
+                <td align="center">Volta à Faculdade de Física</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1197 Volta à Faculdade de Física/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1197 Volta à Faculdade de Física/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1197 Volta à Faculdade de Física/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1197 Volta à Faculdade de Física/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1198</td>
+                <td align="center">O Bravo Guerreiro Hashmat</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1198 O Bravo Guerreiro Hashmat/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1198 O Bravo Guerreiro Hashmat/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1198 O Bravo Guerreiro Hashmat/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1198 O Bravo Guerreiro Hashmat/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">1214</td>
                 <td align="center">Acima da Média</td>
                 <td align="center">  
@@ -2465,6 +2560,30 @@
             </td>
             <td align="center">
                 <a href="./Beecrowd/1214 Acima da Média/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1221</td>
+                <td align="center">Primo Rápido</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1221 Primo Rápido/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1221 Primo Rápido/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1221 Primo Rápido/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1221 Primo Rápido/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -2513,6 +2632,30 @@
             </td>
             <td align="center">
                 <a href="./Beecrowd/1436 Jogo do Tijolo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1555</td>
+                <td align="center">Funções</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1555 Funções/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1555 Funções/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1555 Funções/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1555 Funções/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
