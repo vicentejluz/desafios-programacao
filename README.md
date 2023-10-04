@@ -2991,7 +2991,7 @@
                 <td align="center">Sobrinho do Meio</td>
                 <td align="center">  
                     <a href="./Beecrowd/3301 Sobrinho do Meio/Main.java">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -3015,7 +3015,7 @@
                 <td align="center">Resposta Certa</td>
                 <td align="center">  
                     <a href="./Beecrowd/3302 Resposta Certa/Main.java">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
@@ -3039,7 +3039,7 @@
                 <td align="center">Palavrão</td>
                 <td align="center">  
                     <a href="./Beecrowd/3303 Palavrão/Main.java">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                     </a>
             </td>
             <td align="center">  
