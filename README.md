@@ -3171,6 +3171,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1192</td>
+                <td align="center">O jogo Matemático de Paula</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1192 O jogo Matemático de Paula/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1192 O jogo Matemático de Paula/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1192 O jogo Matemático de Paula/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1192 O jogo Matemático de Paula/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">1216</td>
                 <td align="center">Getline One</td>
                 <td align="center">  
@@ -3217,6 +3241,78 @@
                 </a>
             </td>
         </tr>
+        </tr>
+                    <td align="center">1329</td>
+                <td align="center">Cara ou Coroa</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1329 Cara ou Coroa/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1329 Cara ou Coroa/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1329 Cara ou Coroa/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1329 Cara ou Coroa/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        </tr>
+                    <td align="center">1387</td>
+                <td align="center">Og</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1387 Og/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1387 Og/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1387 Og/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1387 Og/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        </tr>
+                    <td align="center">1397</td>
+                <td align="center">Jogo do Maior</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1397 Jogo do Maior/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1397 Jogo do Maior/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1397 Jogo do Maior/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1397 Jogo do Maior/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
         <tr>
             <td align="center">1467</td>
                 <td align="center">Zerinho ou Um</td>
@@ -3241,7 +3337,7 @@
                 </a>
             </td>
         </tr>
-                <tr>
+        <tr>
             <td align="center">1533</td>
                 <td align="center">Detetive Watson</td>
                 <td align="center">  
@@ -3261,6 +3357,30 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1533 Detetive Watson/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1546</td>
+                <td align="center">Feedback</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1546 Feedback/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1546 Feedback/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1546 Feedback/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1546 Feedback/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -3338,6 +3458,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1943</td>
+                <td align="center">Top N</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1943 Top N/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1943 Top N/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1943 Top N/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1943 Top N/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2058</td>
                 <td align="center">Triângulos e Polígonos Regulares</td>
                 <td align="center">  
@@ -3410,6 +3554,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">2374</td>
+                <td align="center">Pneu</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2374 Pneu/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2374 Pneu/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2374 Pneu/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2374 Pneu/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2375</td>
                 <td align="center">Sedex</td>
                 <td align="center">  
@@ -3477,6 +3645,30 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2388 Tacógrafo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2413</td>
+                <td align="center">Busca na Internet</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2413 Busca na Internet/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2413 Busca na Internet/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2413 Busca na Internet/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2413 Busca na Internet/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -4233,6 +4425,78 @@
             </td>
             <td align="center">
                 <a href="./Beecrowd/1555 Funções/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1585</td>
+                <td align="center">Fazendo Pandorgas</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1585 Fazendo Pandorgas/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1585 Fazendo Pandorgas/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1585 Fazendo Pandorgas/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1585 Fazendo Pandorgas/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1805</td>
+                <td align="center">Soma Natural</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1805 Soma Natural/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1805 Soma Natural/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1805 Soma Natural/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1805 Soma Natural/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2497</td>
+                <td align="center">Contando Ciclos</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2497 Contando Ciclos/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2497 Contando Ciclos/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2497 Contando Ciclos/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/2497 Contando Ciclos/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
