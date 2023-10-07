@@ -4108,6 +4108,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1257</td>
+                <td align="center">Array Hash</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1257 Array Hash/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1257 Array Hash/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1257 Array Hash/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1257 Array Hash/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">1871</td>
                 <td align="center">Zero vale Zero</td>
                 <td align="center">  
@@ -4195,6 +4219,30 @@
             <td align="center"><img src="./Ícones/icons8-c-programming-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-c++-40.png" width="40" height="40"></td>
             <td align="center"><img src="./Ícones/icons8-python-40.png" width="40" height="40"></td>
+        </tr>
+        <tr>
+            <td align="center">1256</td>
+                <td align="center">Tabelas Hash</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1256 Tabelas Hash/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">
+                <a href="#">
+                    <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1256 Tabelas Hash/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="./Beecrowd/1256 Tabelas Hash/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
         </tr>
         <tr>
             <td align="center">1259</td>
