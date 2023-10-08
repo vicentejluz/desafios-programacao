@@ -2348,6 +2348,78 @@
             </td>
         </tr>
         <tr>
+            <td align="center">1181</td>
+                <td align="center">Linha na Matriz</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1181 Linha na Matriz/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1181 Linha na Matriz/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1181 Linha na Matriz/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1181 Linha na Matriz/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1182</td>
+                <td align="center">Coluna na Matriz</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1182 Coluna na Matriz/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1182 Coluna na Matriz/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1182 Coluna na Matriz/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1182 Coluna na Matriz/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">1183</td>
+                <td align="center">Acima da Diagonal Principal</td>
+                <td align="center">  
+                    <a href="./Beecrowd/1183 Acima da Diagonal Principal/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1183 Acima da Diagonal Principal/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1183 Acima da Diagonal Principal/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/1183 Acima da Diagonal Principal/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">1858</td>
                 <td align="center">A Resposta de Theon</td>
                 <td align="center">  
@@ -3605,6 +3677,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">2342</td>
+                <td align="center">Overflow</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2342 Overflow/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2342 Overflow/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2342 Overflow/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2342 Overflow/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2373</td>
                 <td align="center">Garçom</td>
                 <td align="center">  
@@ -4229,8 +4325,8 @@
                     </a>
             </td>
             <td align="center">
-                <a href="#">
-                    <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
+                <a href="./Beecrowd/1256 Tabelas Hash/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
             <td align="center">
