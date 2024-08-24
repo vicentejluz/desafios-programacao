@@ -5105,6 +5105,30 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Validando Endpoints de API/README.md">Validando Endpoints de API</a></td>
+            <td align="center">  
+                <a href="./Dio/Validando Endpoints de API/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Detector do Método HTTP Predominante/README.md">Detector do Método HTTP Predominante</a></td>
+            <td align="center">  
+                <a href="./Dio/Detector do Método HTTP Predominante/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Monitoramento de Temperatura da CPU/README.md">Monitoramento de Temperatura da CPU</a></td>
+            <td align="center">  
+                <a href="./Dio/Monitoramento de Temperatura da CPU/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
