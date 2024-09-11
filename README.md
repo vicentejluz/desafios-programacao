@@ -5129,6 +5129,30 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Inserção de Elementos/README.md">Inserção de Elementos</a></td>
+            <td align="center">  
+                <a href="./Dio/Inserção de Elementos/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Deletando Elementos/README.md">Deletando Elementos</a></td>
+            <td align="center">  
+                <a href="./Dio/Deletando Elementos/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Atualizando Elementos/README.md">Atualizando Elementos</a></td>
+            <td align="center">  
+                <a href="./Dio/Atualizando Elementos/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
