@@ -5153,6 +5153,30 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Gerenciamento de Funcionários/README.md">Gerenciamento de Funcionários</a></td>
+            <td align="center">  
+                <a href="./Dio/Gerenciamento de Funcionários/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Consulta de Funcionários por Departamento/README.md">Consulta de Funcionários por Departamento</a></td>
+            <td align="center">  
+                <a href="./Dio/Consulta de Funcionários por Departamento/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Atualização de Salários/README.md">Atualização de Salários</a></td>
+            <td align="center">  
+                <a href="./Dio/Atualização de Salários/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
