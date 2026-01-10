@@ -3869,6 +3869,30 @@
             </td>
         </tr>
         <tr>
+            <td align="center">2414</td>
+                <td align="center">Desafio do Maior Número</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2414 Desafio do Maior Número/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2414 Desafio do Maior Número/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2414 Desafio do Maior Número/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2414 Desafio do Maior Número/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td align="center">2416</td>
                 <td align="center">Corrida</td>
                 <td align="center">  
@@ -5173,6 +5197,30 @@
             <td align="center"><a href="./Dio/Atualização de Salários/README.md">Atualização de Salários</a></td>
             <td align="center">  
                 <a href="./Dio/Atualização de Salários/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Consulta de Produtos em Estoque/README.md">Consulta de Produtos em Estoque</a></td>
+            <td align="center">  
+                <a href="./Dio/Consulta de Produtos em Estoque/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Filtro de Produtos por Faixa de Preço/README.md">Filtro de Produtos por Faixa de Preço</a></td>
+            <td align="center">  
+                <a href="./Dio/Filtro de Produtos por Faixa de Preço/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><a href="./Dio/Remoção de Duplicatas de Produtos de TI/README.md">Remoção de Duplicatas de Produtos de TI</a></td>
+            <td align="center">  
+                <a href="./Dio/Remoção de Duplicatas de Produtos de TI/Main.java">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
