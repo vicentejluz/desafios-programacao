@@ -2902,10 +2902,10 @@
         <tr>
             <td align="center">2762</td>
                 <td align="center">Entrada e Saída 6</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">  
+                <a href="./Beecrowd/2762 Entrada e Saída 6/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2762 Entrada e Saída 6/main.c">
@@ -3823,10 +3823,10 @@
         <tr>
             <td align="center">2388</td>
                 <td align="center">Tacógrafo</td>
-                <td align="center">  
-                    <a href="./Beecrowd/2388 Tacógrafo/Main.java">
-                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
-                    </a>
+            <td align="center">  
+                <a href="./Beecrowd/2388 Tacógrafo/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2388 Tacógrafo/main.c">
@@ -3840,6 +3840,30 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2388 Tacógrafo/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2408</td>
+                <td align="center">Vice-Campeão</td>
+            <td align="center">  
+                <a href="./Beecrowd/2408 Vice-Campeão/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2408 Vice-Campeão/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2408 Vice-Campeão/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2408 Vice-Campeão/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
@@ -3912,6 +3936,30 @@
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2416 Corrida/main.py">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">2417</td>
+                <td align="center">Campeonato</td>
+                <td align="center">  
+                    <a href="./Beecrowd/2417 Campeonato/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                    </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2417 Campeonato/main.c">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2417 Campeonato/main.cpp">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
+            </td>
+            <td align="center">  
+                <a href="./Beecrowd/2417 Campeonato/main.py">
                     <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
                 </a>
             </td>
