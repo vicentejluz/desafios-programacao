@@ -2935,10 +2935,10 @@
         <tr>
             <td align="center">2764</td>
                 <td align="center">Entrada e Saída de Data</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">  
+                <a href="./Beecrowd/2764 Entrada e Saída de Data/Main.java">
+                        <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2764 Entrada e Saída de Data/main.c">
