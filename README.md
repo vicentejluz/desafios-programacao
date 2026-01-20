@@ -2421,11 +2421,11 @@
         </tr>
         <tr>
             <td align="center">1858</td>
-                <td align="center">A Resposta de Theon</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">A Resposta de Theon</td>
+            <td align="center">  
+                <a href="./Beecrowd/1858 A Resposta de Theon/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1858 A Resposta de Theon/main.c">
@@ -2445,11 +2445,11 @@
         </tr>
         <tr>
             <td align="center">1914</td>
-                <td align="center">De Quem é a Vez?</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">De Quem é a Vez?</td>
+            <td align="center">  
+                <a href="./Beecrowd/1914 De Quem é a Vez/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1914 De Quem é a Vez/main.c">
@@ -2469,11 +2469,11 @@
         </tr>
         <tr>
             <td align="center">1933</td>
-                <td align="center">Tri-du</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+             <td align="center">Tri-du</td>
+             <td align="center">  
+                <a href="./Beecrowd/1933 Tri du/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1933 Tri du/main.c">
@@ -2493,11 +2493,11 @@
         </tr>
         <tr>
             <td align="center">1962</td>
-                <td align="center">Há Muito, Muito Tempo Atrás</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">Há Muito, Muito Tempo Atrás</td>
+            <td align="center">  
+                <a href="./Beecrowd/1962 Há Muito, Muito Tempo Atrás/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/1962 Há Muito, Muito Tempo Atrás/main.c">
@@ -2517,11 +2517,11 @@
         </tr>
         <tr>
             <td align="center">2029</td>
-                <td align="center">Reservatório de Mel</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">Reservatório de Mel</td>
+            <td align="center">  
+                <a href="./Beecrowd/2029 Reservatório de Mel/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2029 Reservatório de Mel/main.c">
@@ -2565,11 +2565,11 @@
         </tr>
         <tr>
             <td align="center">2057</td>
-                <td align="center">Fuso Horário</td>
-                <td align="center">  
-                    <a href="#">
-                        <img src="./Ícones/icons8-indeterminate-checkbox-30.png"></img>
-                    </a>
+            <td align="center">Fuso Horário</td>
+            <td align="center">  
+                <a href="./Beecrowd/2057 Fuso Horário/Main.java">
+                    <img src="./Ícones/icons8-checked-checkbox-30.png"></img>
+                </a>
             </td>
             <td align="center">  
                 <a href="./Beecrowd/2057 Fuso Horário/main.c">
